@@ -1,0 +1,18 @@
+# 密钥
+.env
+.env.local
+.env*.local
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# 系统
+.DS_Store
+
+# 视频项目产物（不要在 skill 目录里做项目）
+*.mp4
+*.mov
+clips/
