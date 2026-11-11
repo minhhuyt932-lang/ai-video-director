@@ -71,6 +71,10 @@ python3 -m venv .venv && .venv/bin/pip install -r ~/.claude/skills/ai-video-dire
 
 > 文档里的模型名和价格是 2026-11 的数据，可能已过时，请以服务商的官方文档和账单为准。
 
+### 🔑 还没有 API key？
+
+推荐 [TokensGrid](https://www.tokensgrid.com)：一站式打通所有模型 API，一个账号搞定生图、视频等各家模型。拿到地址和 key 后，填进上表对应的 `*_BASE_URL` 和 `*_API_KEY` 即可。
+
 ## 脚本
 
 | 脚本 | 做什么 |

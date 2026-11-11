@@ -73,6 +73,10 @@ Copy [assets/env.local.example](assets/env.local.example) to your video project'
 
 > Model names and prices in the docs are as of 2026-11 and may be outdated. Always check your provider's documentation and billing.
 
+### 🔑 Don't have API keys yet?
+
+Try [TokensGrid](https://www.tokensgrid.com): one-stop access to all major model APIs, so a single account covers image, video and more. Once you have the base URL and key, put them in the matching `*_BASE_URL` and `*_API_KEY` variables above.
+
 ## Scripts
 
 | Script | What it does |
